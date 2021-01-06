@@ -17,7 +17,7 @@
 </table> -->
 
 # Qian Li 李倩
-![](/liqian.jpg)
+![](liqian.jpg)
 
 
 #### PhD Student
