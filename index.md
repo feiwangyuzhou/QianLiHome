@@ -17,7 +17,7 @@
 </table> -->
 
 # Qian Li 李倩
-![](liqian.jpg)
+![Qian Li](https://github.com/feiwangyuzhou/QianLiHome/blob/gh-pages/liqian.jpg)
 
 
 #### PhD Student
