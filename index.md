@@ -8,7 +8,9 @@
       <p><b>Email: feiwangyuzhou@163.com</b></p>
     </td>
     <td width="25%">
+      <p>
       <img src="/liqian.jpg" width="100%" /> 
+      </p>
     </td>
   </tr>
 </table>
