@@ -17,9 +17,6 @@
 </table> -->
 
 # Qian Li 李倩
-![Qian Li](https://github.com/feiwangyuzhou/QianLiHome/blob/gh-pages/liqian.jpg)
-
-
 #### PhD Student
 #### School of Computer Science and Engineering
 #### Northeastern University (Shenyang, China)
