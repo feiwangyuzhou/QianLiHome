@@ -17,7 +17,7 @@
 </table> -->
 
 # Qian Li 李倩
-  PhD Student \\
-  School of Computer Science and Engineering
-  Northeastern University (Shenyang, China)
-  Email: feiwangyuzhou@163.com
+PhD Student
+School of Computer Science and Engineering
+Northeastern University (Shenyang, China)
+Email: feiwangyuzhou@163.com
