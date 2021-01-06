@@ -7,10 +7,10 @@
       <p><b>Northeastern University</b></p>
       <p><b>Email: feiwangyuzhou@163.com</b></p>
     </td>
-    <td width="25%">
+<!--     <td width="25%">
       <p>
       <img src="/liqian.jpg" width="100%" /> 
       </p>
-    </td>
+    </td> -->
   </tr>
 </table>
